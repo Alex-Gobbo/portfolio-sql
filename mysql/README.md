@@ -112,4 +112,4 @@ Durante a análise da base de dados, algumas perguntas foram formuladas para obt
 
 ---
 
-🔙 Voltar para o [repositório principal](../../)
+🔙 Voltar para o [https://github.com/Alex-Gobbo/portfolio-sql]
